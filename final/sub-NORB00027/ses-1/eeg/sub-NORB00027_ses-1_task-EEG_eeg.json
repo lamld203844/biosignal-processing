@@ -1,0 +1,17 @@
+{
+  "TaskName": "EEG",
+  "TaskDescription": "Resting EEG",
+  "SamplingFrequency": 200,
+  "EEGChannelCount": 19,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount":  0,
+  "TriggerChannelCount":  0,
+  "EEGPlacementScheme": "10-10",
+  "EEGReference": "common",
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "RecordingDuration": 596.24,
+  "RecordingType": "continuous"
+}
