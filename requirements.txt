@@ -1,1 +1,2 @@
 mne
+pyedflib # for plot
